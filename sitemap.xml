@@ -1,40 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<url>
-  <loc>http://www.deschuilenburg.nl/</loc>
-  <lastmod>2018-07-03T11:29:24+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://www.deschuilenburg.nl/wie-zijn-wij/</loc>
-  <lastmod>2018-07-03T11:29:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.deschuilenburg.nl/onze-diensten/</loc>
-  <lastmod>2018-07-03T11:29:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.deschuilenburg.nl/onze-paarden/</loc>
-  <lastmod>2018-07-03T11:29:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.deschuilenburg.nl/te-koop/</loc>
-  <lastmod>2018-07-03T11:29:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.deschuilenburg.nl/contact/</loc>
-  <lastmod>2018-07-03T11:29:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://www.deschuilenburg.nl/</loc>
+        <lastmod>2018-07-28</lastmod>
+    </url>
+    <url>
+        <loc>http://www.deschuilenburg.nl/wie-zijn-wij/</loc>
+        <lastmod>2018-07-28</lastmod>
+    </url>
+    <url>
+        <loc>http://www.deschuilenburg.nl/onze-diensten/</loc>
+        <lastmod>2018-07-03</lastmod>
+    </url>
+    <url>
+        <loc>http://www.deschuilenburg.nl/onze-paarden/</loc>
+        <lastmod>2018-06-23</lastmod>
+    </url>
+    <url>
+        <loc>http://www.deschuilenburg.nl/te-koop/</loc>
+        <lastmod>2018-07-28</lastmod>
+    </url>
+    <url>
+        <loc>http://www.deschuilenburg.nl/contact/</loc>
+        <lastmod>2018-07-03</lastmod>
+    </url>
 </urlset>
