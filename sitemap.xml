@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>http://www.deschuilenburg.nl/</loc>
-        <lastmod>2019-10-11</lastmod>
+        <lastmod>2021-07-20</lastmod>
     </url>
     <url>
         <loc>http://www.deschuilenburg.nl/wie-zijn-wij/</loc>
-        <lastmod>2019-10-11</lastmod>
+        <lastmod>2021-07-20</lastmod>
     </url>
     <url>
         <loc>http://www.deschuilenburg.nl/onze-diensten/</loc>
-        <lastmod>2019-10-11</lastmod>
+        <lastmod>2021-07-20</lastmod>
     </url>
     <url>
         <loc>http://www.deschuilenburg.nl/onze-paarden/</loc>
-        <lastmod>2019-10-11</lastmod>
+        <lastmod>2021-07-20</lastmod>
+    </url>
+    <url>
+        <loc>http://www.deschuilenburg.nl/onze-fokproducten/</loc>
+        <lastmod>2021-07-20</lastmod>
     </url>
     <url>
         <loc>http://www.deschuilenburg.nl/te-koop/</loc>
-        <lastmod>2019-10-11</lastmod>
+        <lastmod>2021-07-20</lastmod>
     </url>
     <url>
         <loc>http://www.deschuilenburg.nl/sponsoren/</loc>
-        <lastmod>2019-02-21</lastmod>
+        <lastmod>2021-07-20</lastmod>
     </url>
     <url>
         <loc>http://www.deschuilenburg.nl/contact/</loc>
-        <lastmod>2019-02-21</lastmod>
+        <lastmod>2021-07-20</lastmod>
     </url>
 </urlset>
